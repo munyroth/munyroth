@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate backend developer with a **Bachelor's degree in IT Engineering** from the Royal University of Phnom Penh (2020–2024) and over **2 years of professional experience** in full-stack development.
+I'm a passionate backend developer with a **Bachelor's degree in IT Engineering** from the Royal University of Phnom Penh (2020–2024) and nearly **3 years of professional experience** in full-stack development.
 
 I specialize in building and deploying robust backend systems using **NestJS**, **Laravel**, **Spring Boot**, and other modern technologies. I love working on scalable APIs, real-time systems, and efficient database design to support mission-critical operations.
 
