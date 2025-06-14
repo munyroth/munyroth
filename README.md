@@ -53,10 +53,10 @@ I specialize in building and deploying robust backend systems using **NestJS**, 
 
 ## 📫 Get in Touch
 
-- 📧 **Email**: dr.munyroth@gmail.com
-- 📞 **Phone**: +855-10-326-426
-- 💼 [LinkedIn](https://linkedin.com/in/munyroth)
-- 💬 [Telegram](https://t.me/munyroth)
+- 📧 **Email**: [dr.munyroth@gmail.com](mailto:dr.munyroth@gmail.com)
+- 📞 **Phone**: [+855-10-326-426](tel:+85510326426)
+- 💬 **Telegram**: [+855-10-326-426](https://t.me/munyroth)
+- 💼 **LinkedIn**: [មុនី រតន៍](https://linkedin.com/in/munyroth)
 
 ---
 
